@@ -1,4 +1,4 @@
-## 👨‍💻 Victor Felipe:
+## 🧑‍💻 Victor Felipe:
 📘 Studying Information Systems at UNIARA
 
 💻 Software Development Intern at F1RST | Santander ♨️
