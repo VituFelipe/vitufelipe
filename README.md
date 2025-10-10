@@ -1,7 +1,8 @@
 ## 👨‍💻 Victor Felipe:
+💻 Software Developer at F1RST | Santander ♨️
 📘 Studying Information Systems at UNIARA
 
-💻 Software Development Intern at F1RST | Santander ♨️
+
 
 
 ## Programming Languages & Technologies:
