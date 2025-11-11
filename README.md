@@ -6,6 +6,7 @@
 
 
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,gherkin,githubactions,lua)](https://skillicons.dev)
 
 ## Programming Languages & Technologies:
 <img alt="Java"
