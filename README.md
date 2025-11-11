@@ -11,6 +11,11 @@
 
 
 ## Programming Languages & Technologies:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,gherkin,githubactions,lua,mysql,openshift" />
+  </a>
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,gherkin,githubactions,lua,mysql,openshift)](https://skillicons.dev)     
 
