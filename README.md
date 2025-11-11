@@ -4,6 +4,10 @@
 
 📘 Studying Information Systems at UNIARA
 
+🌐 <div>
+ <a href="https://www.linkedin.com/in/victor-felipe28" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 
 ## Programming Languages & Technologies:
@@ -18,8 +22,3 @@
 ##  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VituFelipe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-## Social:
-<div>
- <a href="https://www.linkedin.com/in/victor-felipe28" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
