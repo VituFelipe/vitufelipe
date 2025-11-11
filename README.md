@@ -9,16 +9,10 @@
 </div>
 
 
-<p align="center">
- <strong>Tech Stack</strong>
-</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,gherkin,githubactions,lua,mysql,openshift" />
-  </a>
-</p>
-  
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,gherkin,githubactions,lua,mysql,openshift)](https://skillicons.dev)      
 
 
 ##
